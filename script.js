@@ -70,9 +70,9 @@ const songs = [
         image: "https://i1.sndcdn.com/artworks-000127569843-kegcbw-t1080x1080.jpg"
     },
     {
-        title: "Song 15",
-        url: "#",
-        image: "https://via.placeholder.com/500"
+        title: "Tomorrowland Mix (Dimitri Vegas & Like",
+        url: "https://firebasestorage.googleapis.com/v0/b/bassdimensionclub.appspot.com/o/MUSICA%20MIX%2F03%20Tomorrowland%20(Dimitri%20Vegas%20%26%20Lik.mp3?alt=media&token=bae5b124-a4c0-4e0b-8eda-6faae641c5dc",
+        image: "https://i1.sndcdn.com/artworks-6tvjWUO4kqf7qz1K-J6hyHg-t500x500.jpg"
     }
 ];
 
