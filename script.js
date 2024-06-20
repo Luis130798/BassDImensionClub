@@ -5,9 +5,9 @@ const songs = [
         image: "https://i1.sndcdn.com/artworks-LCw3L1Spsi62-0-t500x500.jpg"
     },
     {
-        title: "Martin Garrix - Yottabyte",
-        url: "https://dl.dropboxusercontent.com/scl/fi/9nffqz3np6ssee8y3ruxk/Martin-Garrix-Yottabyte.mp3?rlkey=j14qyh285cbhj02fbchc8f605&dl=1",
-        image: "https://i1.sndcdn.com/artworks-000421607583-on37y5-t500x500.jpg"
+        title: "Aliveness - Bemac",
+        url: "https://www.dropbox.com/scl/fi/cv8wjd109x360zev0dfy1/Bemac-Aliveness.mp3?rlkey=e1m92wepaycokypekl3gocqf1&st=xllp081q&dl=1",
+        image: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d5/a9/d2/d5a9d243-7fd6-0e67-ec06-92d43b73b5cf/cover.jpg/800x800cc.jpg"
     },
     {
         title: "Mueve La Cintura - ft. Tito El Bambino & Guru Randhawa",
