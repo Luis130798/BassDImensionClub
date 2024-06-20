@@ -10,9 +10,9 @@ const songs = [
         image: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d5/a9/d2/d5a9d243-7fd6-0e67-ec06-92d43b73b5cf/cover.jpg/800x800cc.jpg"
     },
     {
-        title: "Mueve La Cintura - ft. Tito El Bambino & Guru Randhawa",
-        url: "https://dl.dropboxusercontent.com/scl/fi/6vefqf80d5hlyz2ap115h/Pitbull-Mueve-La-Cintura.mp3?rlkey=woyx00gi0u5ohkoxwuzm3rb5z&dl=1",
-        image: "https://i1.sndcdn.com/artworks-000605215330-tjoub8-t500x500.jpg"
+        title: "Hot Since 82 featuring Ron Carroll - Preach",
+        url: "https://www.dropbox.com/scl/fi/03fao4zjnpfaze28obsuq/Hot-Since-82-Preach-feat.-Ron-Carroll.mp3?rlkey=k0vcho9nzdsx0jj06wmrzrofe&st=9asne8u0&dl=1",
+        image: "https://i1.sndcdn.com/artworks-iNDFenVRaEryextQ-jDqZQA-t500x500.jpg"
     },
     {
         title: "La Bebe (David Guetta Remix)",
